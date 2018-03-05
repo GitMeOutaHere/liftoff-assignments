@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[Oasis Github Link](https)
+[Oasis Github Link](https://github.com/GitMeOutaHere/Oasis.git)
