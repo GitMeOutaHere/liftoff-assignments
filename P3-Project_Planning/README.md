@@ -5,8 +5,10 @@ For this assignment, you'll create some initial plans for your project.
 [Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
 
 ## Submission Instructions
-
-liftoff-assignments/P3-Project_Planning/OASIS wireframe.pdf
+<ul>
+  <li> test </li>
+  
+</ul>
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
