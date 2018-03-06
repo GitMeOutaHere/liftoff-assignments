@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-liftoff-assignments/P6-Project_Presentation/Oasis-capstone-presentation.pptx
+[Oasis Presentation Powerpoint](Oasis-capstone-presentation.pptx/)
