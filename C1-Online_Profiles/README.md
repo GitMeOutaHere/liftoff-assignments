@@ -13,4 +13,4 @@ https://github.com/GitMeOutaHere/liftoff-assignments
 www.linkedin.com/in/tomrshuman
 
 ### Resume
-liftoff-assignments/C1-Online_Profiles/TRSsr Tech Resume.pdf
+https://github.com/GitMeOutaHere/liftoff-assignments/blob/master/C1-Online_Profiles/TRSsr%20Tech%20Resume.pdf
